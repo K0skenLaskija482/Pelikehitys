@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tiedostot\\C# teht\u00E4v\u00E4t\\Pk_teht\u00E4v\u00E42\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B39474B2-5332-4A73-A864-0A7B0F0B6159}|Pk_teht\u00E4v\u00E42\\Pk_teht\u00E4v\u00E42.csproj|c:\\tiedostot\\c# teht\u00E4v\u00E4t\\pk_teht\u00E4v\u00E42\\pk_teht\u00E4v\u00E42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B39474B2-5332-4A73-A864-0A7B0F0B6159}|Pk_teht\u00E4v\u00E42\\Pk_teht\u00E4v\u00E42.csproj|solutionrelative:pk_teht\u00E4v\u00E42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tiedostot\\C# teht\u00E4v\u00E4t\\Pk_teht\u00E4v\u00E42\\Pk_teht\u00E4v\u00E42\\Program.cs",
+              "RelativeDocumentMoniker": "Pk_teht\u00E4v\u00E42\\Program.cs",
+              "ToolTip": "C:\\Tiedostot\\C# teht\u00E4v\u00E4t\\Pk_teht\u00E4v\u00E42\\Pk_teht\u00E4v\u00E42\\Program.cs",
+              "RelativeToolTip": "Pk_teht\u00E4v\u00E42\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T07:34:33.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

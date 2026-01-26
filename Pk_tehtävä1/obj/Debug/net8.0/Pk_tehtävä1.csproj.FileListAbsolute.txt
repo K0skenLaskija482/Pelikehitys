@@ -1,0 +1,14 @@
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\bin\Debug\net8.0\Pk_tehtävä1.exe
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\bin\Debug\net8.0\Pk_tehtävä1.deps.json
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\bin\Debug\net8.0\Pk_tehtävä1.runtimeconfig.json
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\bin\Debug\net8.0\Pk_tehtävä1.dll
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\bin\Debug\net8.0\Pk_tehtävä1.pdb
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\obj\Debug\net8.0\Pk_tehtävä1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\obj\Debug\net8.0\Pk_tehtävä1.AssemblyInfoInputs.cache
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\obj\Debug\net8.0\Pk_tehtävä1.AssemblyInfo.cs
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\obj\Debug\net8.0\Pk_tehtävä1.csproj.CoreCompileInputs.cache
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\obj\Debug\net8.0\Pk_tehtävä1.dll
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\obj\Debug\net8.0\refint\Pk_tehtävä1.dll
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\obj\Debug\net8.0\Pk_tehtävä1.pdb
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\obj\Debug\net8.0\Pk_tehtävä1.genruntimeconfig.cache
+C:\Tiedostot\C# tehtävät\Pk_tehtävä1\obj\Debug\net8.0\ref\Pk_tehtävä1.dll
