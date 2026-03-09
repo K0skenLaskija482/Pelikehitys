@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cSWgu1BfpE8=",
+  "success": true,
+  "projectFilePath": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_tehtävä3\\PK_tehtävä3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2401222\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

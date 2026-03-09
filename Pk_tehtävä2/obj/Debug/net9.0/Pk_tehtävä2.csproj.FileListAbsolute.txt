@@ -1,0 +1,15 @@
+C:\GIthub\Pelikehitys\Pk_tehtävä2\bin\Debug\net9.0\Pk_tehtävä2.exe
+C:\GIthub\Pelikehitys\Pk_tehtävä2\bin\Debug\net9.0\Pk_tehtävä2.deps.json
+C:\GIthub\Pelikehitys\Pk_tehtävä2\bin\Debug\net9.0\Pk_tehtävä2.runtimeconfig.json
+C:\GIthub\Pelikehitys\Pk_tehtävä2\bin\Debug\net9.0\Pk_tehtävä2.dll
+C:\GIthub\Pelikehitys\Pk_tehtävä2\bin\Debug\net9.0\Pk_tehtävä2.pdb
+C:\GIthub\Pelikehitys\Pk_tehtävä2\obj\Debug\net9.0\Pk_tehtävä2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIthub\Pelikehitys\Pk_tehtävä2\obj\Debug\net9.0\Pk_tehtävä2.AssemblyInfoInputs.cache
+C:\GIthub\Pelikehitys\Pk_tehtävä2\obj\Debug\net9.0\Pk_tehtävä2.AssemblyInfo.cs
+C:\GIthub\Pelikehitys\Pk_tehtävä2\obj\Debug\net9.0\Pk_tehtävä2.csproj.CoreCompileInputs.cache
+C:\GIthub\Pelikehitys\Pk_tehtävä2\obj\Debug\net9.0\Pk_tehtävä2.sourcelink.json
+C:\GIthub\Pelikehitys\Pk_tehtävä2\obj\Debug\net9.0\Pk_tehtävä2.dll
+C:\GIthub\Pelikehitys\Pk_tehtävä2\obj\Debug\net9.0\refint\Pk_tehtävä2.dll
+C:\GIthub\Pelikehitys\Pk_tehtävä2\obj\Debug\net9.0\Pk_tehtävä2.pdb
+C:\GIthub\Pelikehitys\Pk_tehtävä2\obj\Debug\net9.0\Pk_tehtävä2.genruntimeconfig.cache
+C:\GIthub\Pelikehitys\Pk_tehtävä2\obj\Debug\net9.0\ref\Pk_tehtävä2.dll
