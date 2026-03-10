@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PK_tehtävä3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fbe680ae13d8cec54b104e5e1d50cee65ed4216")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e80c667c0e45fa051164d0327a35b43fd46240a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PK_tehtävä3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PK_tehtävä3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

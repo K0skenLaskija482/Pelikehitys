@@ -15,9 +15,9 @@
     }
     class Nuoli 
         {
-            public Karki Karkityyppi;
-            public Sulat Sulkatyyppi;
-            public int Pituus;
+            private Karki Karkityyppi;
+            private Sulat Sulkatyyppi;
+            private int Pituus;
 
             public double PalautaHinta()
             {

@@ -1,5 +1,27 @@
-﻿namespace PK_tehtävä3
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace PK_tehtävä3
 {
+    class getters 
+    {
+        public Karki Karkityyppi
+        {
+            get { return Karkityyppi; }
+            set { Karkityyppi = value; }
+        }
+
+        public Sulat Sulkatyyppi
+        {
+            get { return Sulkatyyppi; }
+            set { Sulkatyyppi = value; }
+        }
+
+        public int Pituus
+        {
+            get { return Pituus; }
+            set { Pituus = value; }
+        }
+    }
     internal partial class Program
     {
         static void Main(string[] args)
