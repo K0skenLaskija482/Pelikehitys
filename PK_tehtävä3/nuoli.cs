@@ -13,9 +13,31 @@
         kanansulka,
         kotkansulka
     }
-    class Nuoli 
-        {
 
+    enum Eliitti
+    {
+        perusNuoli,
+        aloittelijaNuoli,
+        eliittiNuoli,
+        omaValinta
+    }
+    class Nuoli
+    {
+        public Nuoli()
+        {
+            
+        }
+        public Nuoli(Karki karki, Sulat sulat, int pituus)
+        {
+            this.Karkityyppi = karki;
+            this.Sulkatyyppi = sulat;
+            this.Pituus = pituus;
+        }
+        public Eliitti Eliittivalinta
+        {
+            get;
+            set;
+        }
         public Karki Karkityyppi
         {
             get;
@@ -35,27 +57,40 @@
         }
 
         public double PalautaHinta()
-            {
-                double hinta = 0;
+        {
+            double hinta = 0;
 
-                if (Karkityyppi == Karki.puu)
-                    hinta += 3;
-                else if (Karkityyppi == Karki.teras)
-                    hinta += 5;
-                else if (Karkityyppi == Karki.timantti)
-                    hinta += 50;
+            if (Karkityyppi == Karki.puu)
+                hinta += 3;
+            else if (Karkityyppi == Karki.teras)
+                hinta += 5;
+            else if (Karkityyppi == Karki.timantti)
+                hinta += 50;
 
-                if (Sulkatyyppi == Sulat.lehti)
-                    hinta += 0;
-                else if (Sulkatyyppi == Sulat.kanansulka)
-                    hinta += 1;
-                else if (Sulkatyyppi == Sulat.kotkansulka)
-                    hinta += 5;
+            if (Sulkatyyppi == Sulat.lehti)
+                hinta += 0;
+            else if (Sulkatyyppi == Sulat.kanansulka)
+                hinta += 1;
+            else if (Sulkatyyppi == Sulat.kotkansulka)
+                hinta += 5;
 
-                hinta += Pituus * 0.05;
+            hinta += Pituus * 0.05;
 
-                return hinta;
-            }
+            return hinta;
         }
-    
+
+
+        public static Nuoli AloitelijaNuoli()
+        {
+            return new Nuoli(Karki.puu, Sulat.kanansulka, 70);
+        }
+        public static Nuoli PerusNuoli()
+        {
+            return new Nuoli(Karki.teras, Sulat.kanansulka, 85);
+        }
+        public static Nuoli EliittiNuoli()
+        {
+            return new Nuoli(Karki.timantti, Sulat.kotkansulka, 100);
+        }
+    }
 }

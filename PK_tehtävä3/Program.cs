@@ -8,7 +8,31 @@ namespace PK_tehtävä3
         {
             Nuoli nuoli = new Nuoli();
 
+            bool valmisNuoli = false;
             bool valintaKarki = false;
+            bool valintaSulka = false;
+            bool valintaPitus = false;
+            while (!valmisNuoli)
+            {
+                Console.WriteLine("Valitse nuoli: ");
+                Console.WriteLine("1. Aloittelijanuoli");
+                Console.WriteLine("2. Perusnuoli");
+                Console.WriteLine("3. Eliittinuoli");
+                Console.WriteLine("4. Oma valinta: ");
+                string nuoliValinta = Console.ReadLine();
+
+                switch (nuoliValinta)
+                {
+                    case "1": valmisNuoli = true; nuoli = Nuoli.AloitelijaNuoli(); valintaKarki = true; valintaSulka = true; valintaPitus = true; break;
+                    case "2": valmisNuoli = true; nuoli = Nuoli.PerusNuoli(); valintaKarki = true; valintaSulka = true; valintaPitus = true; break;
+                    case "3": valmisNuoli = true; nuoli = Nuoli.EliittiNuoli(); valintaKarki = true; valintaSulka = true; valintaPitus = true; break;
+                    case "4": valmisNuoli = true; break;
+                    default:
+                        break;
+                }
+            }
+
+            
             while (!valintaKarki)
             {
                 Console.WriteLine("Valitse kärki:");
@@ -26,7 +50,7 @@ namespace PK_tehtävä3
                         break;
                 }
             }
-            bool valintaSulka = false;
+            
             while (!valintaSulka)
             {
                 Console.WriteLine("Valitse sulka:");
@@ -44,7 +68,7 @@ namespace PK_tehtävä3
                         break;
                 }
             }
-            bool valintaPitus = false;
+            
             while (!valintaPitus)
             {
                 Console.WriteLine("Nuolen pituus sentteinä(60 - 100): ");
