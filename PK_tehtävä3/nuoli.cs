@@ -15,11 +15,26 @@
     }
     class Nuoli 
         {
-            private Karki Karkityyppi;
-            private Sulat Sulkatyyppi;
-            private int Pituus;
 
-            public double PalautaHinta()
+        public Karki Karkityyppi
+        {
+            get;
+            set;
+        }
+
+        public Sulat Sulkatyyppi
+        {
+            get;
+            set;
+        }
+
+        public int Pituus
+        {
+            get;
+            set;
+        }
+
+        public double PalautaHinta()
             {
                 double hinta = 0;
 

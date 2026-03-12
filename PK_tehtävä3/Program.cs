@@ -2,26 +2,6 @@
 
 namespace PK_tehtävä3
 {
-    class getters 
-    {
-        public Karki Karkityyppi
-        {
-            get { return Karkityyppi; }
-            set { Karkityyppi = value; }
-        }
-
-        public Sulat Sulkatyyppi
-        {
-            get { return Sulkatyyppi; }
-            set { Sulkatyyppi = value; }
-        }
-
-        public int Pituus
-        {
-            get { return Pituus; }
-            set { Pituus = value; }
-        }
-    }
     internal partial class Program
     {
         static void Main(string[] args)
@@ -69,10 +49,16 @@ namespace PK_tehtävä3
             {
                 Console.WriteLine("Nuolen pituus sentteinä(60 - 100): ");
                 string pitusValinta = Console.ReadLine();
-                
-                if (int.TryParse(pitusValinta, out nuoli.Pituus) && (nuoli.Pituus > 59 && nuoli.Pituus < 101)) 
-                { 
-                    valintaPitus = true;
+                int pituusout;
+
+                if (int.TryParse(pitusValinta, out pituusout))
+                {
+                    nuoli.Pituus = pituusout;
+                    if (nuoli.Pituus > 59 && nuoli.Pituus < 101)
+                    { 
+                        valintaPitus = true; 
+                    }
+                    
                 }
             }
             Console.WriteLine($"Hinta on: {nuoli.PalautaHinta()}");
