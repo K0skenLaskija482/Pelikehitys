@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tiedostot\\GIthub\\Pelikehitys\\Pk_teht\u00E4v\u00E44\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B891AF4A-6D9B-4881-8F49-578F92BAEB43}|Pk_teht\u00E4v\u00E44.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E44\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B891AF4A-6D9B-4881-8F49-578F92BAEB43}|Pk_teht\u00E4v\u00E44.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B891AF4A-6D9B-4881-8F49-578F92BAEB43}|Pk_teht\u00E4v\u00E44.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E44\\reppu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B891AF4A-6D9B-4881-8F49-578F92BAEB43}|Pk_teht\u00E4v\u00E44.csproj|solutionrelative:reppu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B891AF4A-6D9B-4881-8F49-578F92BAEB43}|Pk_teht\u00E4v\u00E44.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E44\\tavara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B891AF4A-6D9B-4881-8F49-578F92BAEB43}|Pk_teht\u00E4v\u00E44.csproj|solutionrelative:tavara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tavara.cs",
+              "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\Pk_teht\u00E4v\u00E44\\Tavara.cs",
+              "RelativeDocumentMoniker": "Tavara.cs",
+              "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\Pk_teht\u00E4v\u00E44\\Tavara.cs",
+              "RelativeToolTip": "Tavara.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:30:33.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reppu.cs",
+              "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\Pk_teht\u00E4v\u00E44\\Reppu.cs",
+              "RelativeDocumentMoniker": "Reppu.cs",
+              "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\Pk_teht\u00E4v\u00E44\\Reppu.cs",
+              "RelativeToolTip": "Reppu.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:31:57.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\Pk_teht\u00E4v\u00E44\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\Pk_teht\u00E4v\u00E44\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:34:39.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

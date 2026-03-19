@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Pk_tehtävä4/1.0.0": {
+        "runtime": {
+          "Pk_tehtävä4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pk_tehtävä4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
