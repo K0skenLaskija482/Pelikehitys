@@ -1,4 +1,6 @@
-﻿namespace Pk_tehtävä4
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace Pk_tehtävä4
 {
     internal class Program
     {
@@ -8,6 +10,8 @@
             while (true)
             {
                 Tavara t;
+
+                Console.WriteLine(reppu.ToString());
 
                 Console.WriteLine($"Repussa on tällä hetkellä {reppu.NykyinenMaara}/{reppu.Maara} tavaraa, {reppu.NykyinenPaino}/{reppu.MaxPaino} painoa, ja {reppu.NykyinenTilavuus}/{reppu.MaxTilavuus} tilavuus");
                 Console.WriteLine("Mitä haluat lisätä?");
@@ -22,7 +26,7 @@
 
                 switch (tavara)
                 {
-                    case "1": t = new Nuoli(); reppu.Lisaa(t); break; 
+                    case "1": t = new Nuoli(); reppu.Lisaa(t); break;
                     case "2": t = new Jousi(); reppu.Lisaa(t); break;
                     case "3": t = new Koysi(); reppu.Lisaa(t); break;
                     case "4": t = new Vesi(); reppu.Lisaa(t); break;
@@ -32,7 +36,6 @@
                     default:
                         break;
                 }
-                
             }
         }
     }

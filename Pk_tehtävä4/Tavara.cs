@@ -11,6 +11,11 @@ namespace Pk_tehtävä4
             Tilavuus = tilavuus;
             Paino = paino;
         }
+
+        public override string ToString()
+        {
+            return "Tavara";
+        }
     }
 
     public class Nuoli : Tavara
@@ -18,6 +23,11 @@ namespace Pk_tehtävä4
         public Nuoli() : base(0.05f, 0.1f)
         {
 
+        }
+
+        public override string ToString()
+        {
+            return "Nuoli";
         }
     }
 
@@ -27,6 +37,11 @@ namespace Pk_tehtävä4
         {
 
         }
+
+        public override string ToString()
+        {
+            return "Jousi";
+        }
     }
 
     public class Koysi : Tavara
@@ -34,6 +49,11 @@ namespace Pk_tehtävä4
         public Koysi() : base(1f, 1.5f)
         {
 
+        }
+
+        public override string ToString()
+        {
+            return "Köysi";
         }
     }
 
@@ -43,6 +63,11 @@ namespace Pk_tehtävä4
         {
 
         }
+
+        public override string ToString()
+        {
+            return "Vesi";
+        }
     }
 
     public class Ruoka : Tavara
@@ -51,12 +76,22 @@ namespace Pk_tehtävä4
         {
 
         }
+
+        public override string ToString()
+        {
+            return "Ruoka";
+        }
     }
     public class Miekka : Tavara
     {
         public Miekka() : base(5f, 3f)
         {
 
+        }
+
+        public override string ToString()
+        {
+            return "Miekka";
         }
     }
 }

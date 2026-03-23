@@ -1,4 +1,6 @@
 ﻿
+using System.Security.Cryptography.X509Certificates;
+
 namespace Pk_tehtävä4
 {
     internal class Reppu
@@ -45,12 +47,12 @@ namespace Pk_tehtävä4
             Maara = maara;
         }
 
-        List <Tavara> tavarat = new List<Tavara>();
+        List<Tavara> tavarat = new List<Tavara>();
 
         public bool Lisaa(Tavara tavara)
         {
-            if (tavarat.Count >= Maara) 
-            { 
+            if (tavarat.Count >= Maara)
+            {
                 Console.WriteLine("Reppu on täynnä, et voi lisätä enempää tavaroita.");
                 return false;
             }
@@ -67,6 +69,23 @@ namespace Pk_tehtävä4
             tavarat.Add(tavara);
 
             return true;
+        }
+        public override string ToString()
+        {
+            if (tavarat.Count == 0)
+            {
+                return "Reppu on tyhjä.";
+            }
+            string sisalto = "Repussa on:";
+            for (int i = 0; i < tavarat.Count; i++)
+            {
+                sisalto += tavarat[i].ToString();
+                if (i != tavarat.Count - 1)
+                {
+                    sisalto += ", ";
+                }
+            }
+            return sisalto;
         }
     }
 }
