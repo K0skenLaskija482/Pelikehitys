@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E45\\robotti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|solutionrelative:robotti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E45\\yl\u00F6s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|solutionrelative:yl\u00F6s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E45\\alas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +27,16 @@
       "RelativeMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|solutionrelative:oikea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E45\\yl\u00F6s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|solutionrelative:yl\u00F6s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E45\\robottik\u00E4sky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|solutionrelative:robottik\u00E4sky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E45\\k\u00E4ynnist\u00E4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|solutionrelative:k\u00E4ynnist\u00E4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E45\\sammuta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4926CB-769F-4DDA-A857-A524742D234C}|PK_teht\u00E4v\u00E45.csproj|solutionrelative:sammuta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "Sammuta.cs",
+              "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Sammuta.cs",
+              "RelativeDocumentMoniker": "Sammuta.cs",
+              "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Sammuta.cs",
+              "RelativeToolTip": "Sammuta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:17:36.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "K\u00E4ynnist\u00E4.cs",
+              "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\K\u00E4ynnist\u00E4.cs",
+              "RelativeDocumentMoniker": "K\u00E4ynnist\u00E4.cs",
+              "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\K\u00E4ynnist\u00E4.cs",
+              "RelativeToolTip": "K\u00E4ynnist\u00E4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:17:34.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RobottiK\u00E4sky.cs",
+              "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\RobottiK\u00E4sky.cs",
+              "RelativeDocumentMoniker": "RobottiK\u00E4sky.cs",
+              "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\RobottiK\u00E4sky.cs",
+              "RelativeToolTip": "RobottiK\u00E4sky.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:12:31.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Oikea.cs",
               "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Oikea.cs",
               "RelativeDocumentMoniker": "Oikea.cs",
               "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Oikea.cs",
               "RelativeToolTip": "Oikea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T07:51:04.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Vasen.cs",
               "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Vasen.cs",
               "RelativeDocumentMoniker": "Vasen.cs",
               "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Vasen.cs",
               "RelativeToolTip": "Vasen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T07:50:52.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Alas.cs",
               "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Alas.cs",
               "RelativeDocumentMoniker": "Alas.cs",
               "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Alas.cs",
               "RelativeToolTip": "Alas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T07:50:26.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Yl\u00F6s.cs",
               "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Yl\u00F6s.cs",
               "RelativeDocumentMoniker": "Yl\u00F6s.cs",
               "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Yl\u00F6s.cs",
               "RelativeToolTip": "Yl\u00F6s.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T07:48:37.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Robotti.cs",
               "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Robotti.cs",
               "RelativeDocumentMoniker": "Robotti.cs",
               "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Robotti.cs",
               "RelativeToolTip": "Robotti.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T08:33:20.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Tiedostot\\GIthub\\Pelikehitys\\PK_teht\u00E4v\u00E45\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T08:31:09.956Z",
               "EditorCaption": ""
