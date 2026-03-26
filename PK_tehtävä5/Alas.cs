@@ -1,9 +1,9 @@
 ﻿
 namespace PK_tehtävä5
 {
-    public class Alas: RobottiKäsky
+    public class Alas: IRobottiKäsky
     {
-        public override void Suorita(Robotti robotti)
+        public void Suorita(Robotti robotti)
         {
             if (robotti.OnKäynnissä)
             {

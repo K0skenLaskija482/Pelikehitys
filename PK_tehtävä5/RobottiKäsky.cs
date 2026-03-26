@@ -1,8 +1,8 @@
 ﻿
 namespace PK_tehtävä5
 {
-    public abstract class RobottiKäsky
+    public interface IRobottiKäsky
     {
-        public abstract void Suorita(Robotti robotti);
+        void Suorita(Robotti robotti);
     }
 }

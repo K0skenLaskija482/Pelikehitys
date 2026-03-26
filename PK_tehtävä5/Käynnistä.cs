@@ -1,9 +1,9 @@
 ﻿
 namespace PK_tehtävä5
 {
-    public class Käynnistä: RobottiKäsky
+    public class Käynnistä: IRobottiKäsky
     {
-        public override void Suorita(Robotti robotti)
+        public void Suorita(Robotti robotti)
         {
             robotti.OnKäynnissä = true;
         }
