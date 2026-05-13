@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Tiedostot\\GIthub\\Pelikehitys\\Pk_teht\u00E4v\u00E47\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{407E1FD1-2A90-42EC-BF86-5BE44B3B6189}|Pk_teht\u00E4v\u00E47.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E47\\tavara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{407E1FD1-2A90-42EC-BF86-5BE44B3B6189}|Pk_teht\u00E4v\u00E47.csproj|solutionrelative:tavara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{407E1FD1-2A90-42EC-BF86-5BE44B3B6189}|Pk_teht\u00E4v\u00E47.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E47\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E1FD1-2A90-42EC-BF86-5BE44B3B6189}|Pk_teht\u00E4v\u00E47.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{407E1FD1-2A90-42EC-BF86-5BE44B3B6189}|Pk_teht\u00E4v\u00E47.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E47\\varitettytavara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{407E1FD1-2A90-42EC-BF86-5BE44B3B6189}|Pk_teht\u00E4v\u00E47.csproj|solutionrelative:varitettytavara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{407E1FD1-2A90-42EC-BF86-5BE44B3B6189}|Pk_teht\u00E4v\u00E47.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E47\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{407E1FD1-2A90-42EC-BF86-5BE44B3B6189}|Pk_teht\u00E4v\u00E47.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{407E1FD1-2A90-42EC-BF86-5BE44B3B6189}|Pk_teht\u00E4v\u00E47.csproj|c:\\tiedostot\\github\\pelikehitys\\pk_teht\u00E4v\u00E47\\tavara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407E1FD1-2A90-42EC-BF86-5BE44B3B6189}|Pk_teht\u00E4v\u00E47.csproj|solutionrelative:tavara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Tavara.cs",
               "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\Pk_teht\u00E4v\u00E47\\Tavara.cs",
               "RelativeDocumentMoniker": "Tavara.cs",
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Tavara.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T07:01:34.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T07:01:34.603Z"
             },
             {
               "$type": "Document",
@@ -47,12 +46,11 @@
               "RelativeToolTip": "VaritettyTavara.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T06:41:52.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T06:41:52.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tiedostot\\GIthub\\Pelikehitys\\Pk_teht\u00E4v\u00E47\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
